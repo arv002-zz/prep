@@ -1,4 +1,5 @@
-# Coding exercises to stay in shape.
+
+ #Coding exercise to stay in sharp.
 
 Click [here to see the exercises list](exercises.md).
 
